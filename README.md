@@ -18,9 +18,11 @@
 
 - 📫 How to reach me **wmohankavinda@gmail.com**
 
+- 📄 Know about my experiences [https://github.com/kavindee/kavindee/blob/main/MOHAN%20WEERASINGHE%20CV.pdf](https://github.com/kavindee/kavindee/blob/main/MOHAN%20WEERASINGHE%20CV.pdf)
+
 - ⚡ Fun fact **404 Error: HTTP 404 error, indicating a page not found, is named after the room number 404 at CERN.**
 
-<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kavindamohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavindamohan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohan-weerasinghe-662602155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohan-weerasinghe-662602155" height="30" width="40" /></a>
