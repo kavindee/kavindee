@@ -14,11 +14,11 @@
 
 - 👯 I’m currently an undergraduate [SLIIT](https://www.sliit.lk/)
 
+- 📄 Know about my experiences [Resume](https://github.com/kavindee/kavindee/blob/main/MOHAN%20WEERASINGHE%20CV.pdf)
+
 - 💬 Ask me about **FullStack development**
 
 - 📫 How to reach me **wmohankavinda@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/kavindee/kavindee/blob/main/MOHAN%20WEERASINGHE%20CV.pdf](https://github.com/kavindee/kavindee/blob/main/MOHAN%20WEERASINGHE%20CV.pdf)
 
 - ⚡ Fun fact **404 Error: HTTP 404 error, indicating a page not found, is named after the room number 404 at CERN.**
 
