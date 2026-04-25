@@ -2,11 +2,11 @@
 
 # Hi there, I'm Mohan Weerasinghe 👋
 
-**Software Engineer · Full-Stack Developer · CS Undergraduate at SLIIT**
+**Software Engineer · Full-Stack Developer · Based in Sri Lanka**
 
 <img align="right" alt="Coding" width="400" src="https://github.com/kavindee/kavindee/blob/main/dog.gif">
 
-I'm a passionate, self-taught software developer from Sri Lanka, currently pursuing my degree at [SLIIT](https://www.sliit.lk/). I enjoy building end-to-end web and mobile applications, exploring new technologies, and continuously leveling up my skills.
+I'm a passionate software engineer from Sri Lanka with a focus on full-stack development. I enjoy building end-to-end web and mobile applications, exploring new technologies, and continuously leveling up my skills.
 
 📫 **Reach me at:** wmohankavinda@gmail.com
 
